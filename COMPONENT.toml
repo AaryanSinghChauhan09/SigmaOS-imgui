@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-imgui"
+version = "0.1.0"
+category = "platform"
+description = "Dear ImGui immediate-mode GUI integration for SigmaOS"
